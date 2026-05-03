@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Faizan, Muhammad
+AU  - Arif, Muhammad Sameer
+AU  - Chattha, Jawwad Nasar
+AU  - Butt, Faran Awais
+PY  - 2024
+DA  - 2024/05/01
+TI  - Mel-Frequency-based Feature Analysis of Audio Signals in the Context of Holy Quran Recitation
+JO  - Arabian Journal for Science and Engineering
+SP  - 6971
+EP  - 6979
+VL  - 49
+IS  - 5
+AB  - Different sounds have various effects on human health, and by introducing the ones that are therapeutic, a healing environment can be created. This paper describes the process to train and test a machine learning algorithm to describe and explore the therapeutic nature of Quranic verse. Using a dataset containing four emotional states namely happy, sad, angry, and relaxed, we trained a model and classified different recitations of the Quran into one of these states. This paper proposes the use of Mel-frequency cepstral coefficients (MFCC) to extract features from Quranic audio and classify it with respect to a known dataset. Based on the experiments conducted on Quranic verses, we summarize our results.
+SN  - 2191-4281
+UR  - https://doi.org/10.1007/s13369-023-08555-5
+DO  - 10.1007/s13369-023-08555-5
+ID  - Faizan2024
+ER  - 
